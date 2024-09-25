@@ -5,7 +5,7 @@
 I'm an aspiring engineer, developer, and designer with a degree in Chemical Engineering and a minor in Computer Science. I've been exploring web development and have a passion for creating intuitive and responsive applications.
 
 - 🌱 I’m currently learning PostgresQL, a database management system, and SQL, the language of these databases.
-- 💬 Ask me about my experience studying chemical or my projects in the paper-making process.
+- 💬 Ask me about my experience studying chemical engineering or my projects in the paper-making process.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryan-ar-ragasa/), [Email](mailto:ryanaragasa23@gmail.com)
 
 ## 🛠️ Tech Stack
