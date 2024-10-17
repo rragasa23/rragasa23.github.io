@@ -24,4 +24,4 @@ I'm an aspiring engineer, developer, and designer with a degree in Chemical Engi
 
 - 📝 My entire legal first name is Ryan Alexander.
 - 🐕 I have an awesome dog named Rocky.
-- 🎸 I love playing the guitar and ♟️ chess
+- 🎸 I love playing the guitar and ♟️ chess.
