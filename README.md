@@ -10,7 +10,7 @@ I'm an aspiring engineer, developer, and designer with a degree in Chemical Engi
 
 ## 🛠️ Tech Stack
 
-- **Languages**: HTML, CSS, JavaScript, Java, Python, C++
+- **Languages**: HTML, CSS, JavaScript, Java, Python, C#
 - **Frameworks**: React, Bootstrap, Express
 - **Tools**: VSCode, Git, GitHub, Firebase, Cloudflare, Linux, Bash
 
